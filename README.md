@@ -1,2 +1,2 @@
 
-![](ICONO_SECUNDARIO.png)<!-- -->
+![](SaludInfo.jpg)<!-- -->

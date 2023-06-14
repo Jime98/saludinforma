@@ -1,2 +1,2 @@
 
-[](FOTO_DE_LA_APLICACION.jpeg)<!-- -->
+![](ICONO_SECUNDARIO.png)<!-- -->

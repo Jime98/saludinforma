@@ -19,6 +19,8 @@ Estamos comprometidos en abordar el desafío de la falta de acceso a informació
 
 SaludInfo es una aplicación móvil que hemos creado utilizando App Inventor, una plataforma de desarrollo visual para crear aplicaciones para dispositivos Android. A través de esta plataforma, hemos diseñado una interfaz intuitiva y fácil de usar para proporcionar información médica precisa y confiable a los usuarios.
 
+![](Mit_app_inventor.png)<!-- -->
+
 You can also install the unstable versions of mispitools from  [Github](https://github.com/MarsicoFL/mispitools/) by using the following command:
 
 ``` r

@@ -10,7 +10,7 @@
 
 ## Importante 
 Aunque hemos realizado avances significativos en el desarrollo de la aplicación, es importante destacar que aún no hemos completado todas las funcionalidades y características que tenemos en mente. Nos falta definir y mejorar.
-##Ahora si!
+## Ahora si!
 ## ¡Hola a todos! 
 Nos complace darles la bienvenida a nuestro repositorio de SaludInfo. Somos un grupo de estudiantes de la carrera de Informática Aplicada a la Salud, de la Universidad Nacional de José C. Paz (UNPAZ). Nuestro equipo está conformado por Daniela Maidana, Daniela Rojas, Juan Pablo Asis y Jimena Mollo.
 

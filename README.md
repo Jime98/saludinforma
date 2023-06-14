@@ -21,3 +21,16 @@ SaludInfo es una aplicación móvil que hemos creado utilizando App Inventor, un
 
 ![](Mit_app_inventor.png)<!-- -->
 
+## La aplicación consta de varias pantallas principales:
+
+1 .Pantallas principales:Pantalla de inicio: Al abrir la aplicación, los usuarios son recibidos con una pantalla de inicio. Esta pantalla muestra nuestro logo SaludInfo y permite a los usuarios acceder fácilmente al menú principal.
+2 .Menú principal: Una vez que los usuarios ingresan al menú principal, se les presentan varias opciones para elegir: "Especialidades", "Hospitales" y "Urgencias". Los usuarios pueden seleccionar la opción que más les interese para obtener información específica.
+
+Especialidades: Al seleccionar esta opción, los usuarios podrán acceder a una lista de especialidades médicas, como Cardiología, Dermatología, Odontología, Oftalmología, Ginecología, Pediatría, Ortopedia, Psicología, Neurología, Otorrinolaringología, Endocrinología, Gastroenterología y Urología. Al elegir una especialidad, se mostrarán preguntas y respuestas predefinidas relacionadas con esa especialidad, brindando información detallada y respuestas a preguntas frecuentes.
+
+Hospitales: Al seleccionar esta opción, los usuarios podrán acceder a una lista de los 9 hospitales disponibles en José C. Paz. Junto a cada hospital, se mostrará su ubicación en el mapa y su número de teléfono. Esto permitirá a los usuarios localizar fácilmente los hospitales cercanos y acceder a su información de contacto para emergencias o consultas médicas programadas.
+
+Urgencias: 
+
+## Importante 
+Aunque hemos realizado avances significativos en el desarrollo de la aplicación, es importante destacar que aún no hemos completado todas las funcionalidades y características que tenemos en mente. Nos falta definir y mejorar.

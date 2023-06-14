@@ -8,24 +8,16 @@
 
 
 
-## About mispitools
-'mispitools' is an open-source package written in the R statistical language. It consists of a collection of decision-making tools designed for conducting missing person searches. The package enables the computation of various features, ranging from preliminary investigation data-based likelihood ratios (LRs) to the optimal LR threshold for identifying potential matches in DNA-based database searches.
+## ¡Hola a todos! 
+Nos complace darles la bienvenida a nuestro repositorio de SaludInfo. Somos un grupo de estudiantes de la carrera de Informática Aplicada a la Salud, de la Universidad Nacional de José C. Paz (UNPAZ). Nuestro equipo está conformado por Daniela Maidana, Daniela Rojas, Juan Pablo Asis y Jimena Mollo.
 
-'mispitools' imports two additional packages, namely forrel (https://doi.org/10.1016/j.fsigen.2020.102376) and pedtools (https://doi.org/10.1016/C2020-0-01956-0).
-
-In its most recent update, 'mispitools' incorporates preliminary investigation data-based LRs, presenting the statistical weight of different traces of evidence, such as biological sex, age, and hair color.
-
-To properly cite 'mispitools,' please refer to the following references: Marsico and Caridi, 2023 (http://dx.doi.org/10.2139/ssrn.4331033), and Marsico, Vigeland et al. 2021 (https://doi.org/10.1016/j.fsigen.2021.102519).
+Estamos comprometidos en abordar el desafío de la falta de acceso a información precisa y confiable sobre salud, y brindar soluciones efectivas a esta problemática. Nuestra aplicación, SaludInfo, se enfoca específicamente en la localidad de José C. Paz, proporcionando información detallada sobre los hospitales y centros médicos de la zona, así como los números de atención y datos relevantes sobre las especialidades médicas más recurrentes.
 
 
-## Installation
 
-The objective of mispitools is to provide a simulation framework for decision-making in missing person identification cases. You can install it from CRAN by typing the following command on your R command line:
+## Las funcionalidades de la aplicación SaludInfo, desarrollada utilizando App Inventor:
 
-``` r
-install.packages("mispitools")
-library(mispitools)
-```
+SaludInfo es una aplicación móvil que hemos creado utilizando App Inventor, una plataforma de desarrollo visual para crear aplicaciones para dispositivos Android. A través de esta plataforma, hemos diseñado una interfaz intuitiva y fácil de usar para proporcionar información médica precisa y confiable a los usuarios.
 
 You can also install the unstable versions of mispitools from  [Github](https://github.com/MarsicoFL/mispitools/) by using the following command:
 

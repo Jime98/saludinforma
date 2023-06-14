@@ -1,14 +1,12 @@
 <img src="SaludInfo.jpg" align="left" width="100">
 
+## ¡Bienvenidos a nuestro repositorio de SaludInfo!
 
-## Mispitools: Missing Person Identification Tools
+## Proyecto SaludInfo:  Información Precisa y Confiable al alcance de todos
 
-<!-- badges: start -->
 
-[![CRAN status](https://www.r-pkg.org/badges/version/mispitools)](https://CRAN.R-project.org/package=mispitools)
-[![](https://cranlogs.r-pkg.org/badges/grand-total/mispitools?color=blue)](https://cran.r-project.org/package=mispitools)
 
-<!-- badges: end -->
+
 
 ## About mispitools
 'mispitools' is an open-source package written in the R statistical language. It consists of a collection of decision-making tools designed for conducting missing person searches. The package enables the computation of various features, ranging from preliminary investigation data-based likelihood ratios (LRs) to the optimal LR threshold for identifying potential matches in DNA-based database searches.

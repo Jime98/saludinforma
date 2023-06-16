@@ -37,3 +37,4 @@ Urgencias:
 
 ## Pantallas movil📲 y sus codigos 👩🏻‍💻🧑🏻‍💻
 ![](pantalla_principal.jpeg)<!-- -->
+<img src="pantalla_principal.jpeg" width="300"/>

@@ -35,3 +35,4 @@ Hospitales: Al seleccionar esta opción, los usuarios podrán acceder a una list
 
 Urgencias: 
 
+## Pantallas movil📲 y sus codigos 👩🏻‍💻🧑🏻‍💻

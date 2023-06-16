@@ -36,5 +36,8 @@ Hospitales: Al seleccionar esta opción, los usuarios podrán acceder a una list
 Urgencias: 
 
 ## Pantallas movil📲 y sus codigos 👩🏻‍💻🧑🏻‍💻
-
+PANTALLA PRINCIPAL
 <img src="pantalla_principal.jpeg" width="200"/>         <img src="codigo_pantallaprincipal.png" width="600"/>
+
+MENU PRINCIPAL
+

@@ -37,4 +37,5 @@ Urgencias:
 
 ## Pantallas movil📲 y sus codigos 👩🏻‍💻🧑🏻‍💻
 <img src="pantala_hospitales.jpeg" align="left" width="100">
-![](pantala_hospitales.jpeg)<!-- -->
+![]()<!-- -->
+![Texto alternativo](pantala_hospitales.jpeg)

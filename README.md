@@ -46,7 +46,7 @@ Urgencias:
 <img src="codigo_pantallaprincipal.png" width="600"/> 
 
 ## Captura de pantalla menu principal
-<img src="manu_principal.jpeg" width="200"/>
+<img src="manu_principal.png" width="600"/>
 
 ## Lista de consejos en el menu principal, bloques app invento
 <img src="listadeconsejos.png" width="800"/>

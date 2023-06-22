@@ -39,14 +39,18 @@ Urgencias:
 
 ## Captura de pantalla principal
 
-<img src="pantalla_principal.jpeg" width="200"/>  
+<img src="pantalla_principal.jpeg" width="200"/> 
+
 ## Codigo de pantalla principal
 
 <img src="codigo_pantallaprincipal.png" width="600"/> 
+
 ## Captura de pantalla menu principal
 
 ## Lista de consejos en el menu principal, bloques app invento
 <img src="listadeconsejos.png" width="800"/>
+
+La lista de consejos en el menú principal de nuestra aplicación sirve  para proporcionar información adicional, que sea util.  Para eso creamos una lista de consejos, con los bloques pudimos seleccionar aleatoreamente los conejos de la lista ya preparada, mostrando los consejos en forma de etiqueta, luego utilizando el temporizador podemos ir cambiendo el consejo.
 
 
 

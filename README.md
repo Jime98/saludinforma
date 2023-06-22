@@ -39,9 +39,9 @@ Urgencias:
 ##
 <img src="pantalla_principal.jpeg" width="200"/>        
 <img src="codigo_pantallaprincipal.png" width="600"/> 
-<img src="pantalla_manuprincipal.jpeg" width="200"/>  
+ 
 <img src="global_consejos.png" width="600"/>  
-![](global_consejos.png)<!-- -->
+
 
 
 

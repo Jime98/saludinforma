@@ -54,6 +54,8 @@ Urgencias:
 
 La lista de consejos en el menú principal de nuestra aplicación sirve  para proporcionar información adicional, que sea util.  Para eso creamos una lista de consejos, con los bloques pudimos seleccionar aleatoreamente los conejos de la lista ya preparada, mostrando los consejos en forma de etiqueta, luego utilizando el temporizador podemos ir cambiendo el consejo.
 
+
+
 ## Captura de pantalla Centros de salud
 
 <img src="captura_hospitales.png" width="500"/>
@@ -68,6 +70,18 @@ La lista de consejos en el menú principal de nuestra aplicación sirve  para pr
 
 Esta función muestra informacion sobre 8 hospitales, incluyendo sus nombres, mapas y números de telefono, los bloques nos permitieron  facilitar interaccienes, como mostrar la ubicación en el mapa y marcar los números de teléfono. Tmbien pusimos la direccion de horarios para brindar informacion mas rapida e importante sobre los hospitales.
 
+## Captura de pantalla Urgencias 
+CUENTA CON DOS BOTINES PRINCIPALES "CONSEJOS DE EMEGERNCIA" Y "NUMEROS DE EMERGENCIA"
 
+<img src="captura_emergencias.png" width="500"/>
 
+<img src="captura_consejosemergencia.png" width="500"/>
+
+## Bloques para para consejos de emergencias
+
+<img src="consejos_emergencia.png" width="500"/>
+
+## Bloques para numeros de amergencia
+
+<img src="numero_emergencia.png" width="500"/>
 

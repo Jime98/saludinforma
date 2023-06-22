@@ -41,7 +41,7 @@ Urgencias:
 <img src="codigo_pantallaprincipal.png" width="600"/> 
 <img src="pantalla_manuprincipal.jpeg" width="200"/>  
 <img src="pantalla_manuprincipal.jpeg" width="200"/>  
-
+![]("pantalla_manuprincipal.jpeg)<!-- -->
 
 
 

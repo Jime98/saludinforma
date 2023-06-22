@@ -66,6 +66,7 @@ La lista de consejos en el menú principal de nuestra aplicación sirve  para pr
 
 <img src="bloques_mapa.png" width="800"/>
 
+Esta función muestra informacion sobre 8 hospitales, incluyendo sus nombres, mapas y números de telefono, los bloques nos permitieron  facilitar interaccienes, como mostrar la ubicación en el mapa y marcar los números de teléfono. Tmbien pusimos la direccion de horarios para brindar informacion mas rapida e importante sobre los hospitales.
 
 
 

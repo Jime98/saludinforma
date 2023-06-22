@@ -68,7 +68,7 @@ Urgencias:
 
 <img src="bloques_mapa.png" width="800"/>
 
-*`Esta función muestra informacion sobre 8 hospitales, incluyendo sus nombres, mapas y números de telefono, los bloques nos permitieron  facilitar interaccienes, como mostrar la ubicación en el mapa y marcar los números de teléfono. Tmbien pusimos la direccion de horarios para brindar informacion mas rapida e importante sobre los hospitales.`*
+`Esta función muestra informacion sobre 8 hospitales, incluyendo sus nombres, mapas y números de telefono, los bloques nos permitieron  facilitar interaccienes, como mostrar la ubicación en el mapa y marcar los números de teléfono. Tmbien pusimos la direccion de horarios para brindar informacion mas rapida e importante sobre los hospitales.`
 
 ## Captura de pantalla Urgencias 
 CUENTA CON DOS BOTINES PRINCIPALES "CONSEJOS DE EMEGERNCIA" Y "NUMEROS DE EMERGENCIA"
@@ -81,10 +81,10 @@ CUENTA CON DOS BOTINES PRINCIPALES "CONSEJOS DE EMEGERNCIA" Y "NUMEROS DE EMERGE
 
 <img src="consejos_emergencia.png" width="500"/>
 
-*`La aplicación también cuenta con una sección de consejos de emergencia que están relacionados con cada especialidad médica. Al proporcionar consejos basados en la especialidad médica seleccionada, nuestra aplicación ayuda a los usuarios a tomar decisiones más informadas y adecuadas ante una emergencia de salud.`*
+`La aplicación también cuenta con una sección de consejos de emergencia que están relacionados con cada especialidad médica. Al proporcionar consejos basados en la especialidad médica seleccionada, nuestra aplicación ayuda a los usuarios a tomar decisiones más informadas y adecuadas ante una emergencia de salud.`
 
 ## Bloques para numeros de amergencia
 
 <img src="numeros_emergencia.png" width="500"/>
 
-*`También hemos incluido números de emergencia que es util para  atención médica urgente, que abarcan diferentes situaciones incluyendo otros casos relevantes. Casos como violencia de género, PAMI y SAME etc`*
+`También hemos incluido números de emergencia que es util para  atención médica urgente, que abarcan diferentes situaciones incluyendo otros casos relevantes. Casos como violencia de género, PAMI y SAME etc`

@@ -60,11 +60,11 @@ La lista de consejos en el menú principal de nuestra aplicación sirve  para pr
 
 ## Bloques para el boton Llamada
 
-<img src="bloques_llamada.png" width="500"/>
+<img src="bloques_llamada.png" width="800"/>
 
 ## Bloques para el boton Mapa
 
-<img src="bloques_mapa.png" width="500"/>
+<img src="bloques_mapa.png" width="800"/>
 
 
 

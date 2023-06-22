@@ -83,5 +83,5 @@ CUENTA CON DOS BOTINES PRINCIPALES "CONSEJOS DE EMEGERNCIA" Y "NUMEROS DE EMERGE
 
 ## Bloques para numeros de amergencia
 
-<img src="numero_emergencia.png" width="500"/>
+<img src="numeros_emergencia.png" width="500"/>
 

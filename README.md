@@ -87,4 +87,4 @@ CUENTA CON DOS BOTINES PRINCIPALES "CONSEJOS DE EMEGERNCIA" Y "NUMEROS DE EMERGE
 
 <img src="numeros_emergencia.png" width="500"/>
 
-*También hemos incluido números de emergencia que es util para  atención médica urgente, que abarcan diferentes situaciones incluyendo otros casos relevantes. Casos como violencia de género, PAMI y SAME etc*
+*`También hemos incluido números de emergencia que es util para  atención médica urgente, que abarcan diferentes situaciones incluyendo otros casos relevantes. Casos como violencia de género, PAMI y SAME etc`*

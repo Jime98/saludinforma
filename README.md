@@ -39,7 +39,7 @@ Urgencias:
 
 ## Captura de pantalla principal
 
-<img src="pantalla_principal.jpeg" width="800"/> 
+<img src="pantalla_principal.jpeg" width="500"/> 
 
 ## Codigo de pantalla principal
 
@@ -73,7 +73,7 @@ Urgencias:
 <img src="especialidadesconsejos_bloques.png" width="800"/> 
 
 ## Captura boton de busqueda
-<img src="botonbusqueda_captura.png" width="800"/> 
+<img src="botonbusqueda_captura.png" width="500"/> 
 
 ## Bloques boton de busqueda
 <img src="bloques_busqueda.png" width="800"/> 

@@ -56,7 +56,15 @@ La lista de consejos en el menú principal de nuestra aplicación sirve  para pr
 
 ## Captura de pantalla Centros de salud
 
-<img src="captura_hospitales.png" width="500"/
+<img src="captura_hospitales.png" width="500"/>
+
+## Bloques para el boton Llamada
+
+<img src="bloques_llamada.png" width="500"/>
+
+## Bloques para el boton Mapa
+
+<img src="bloques_mapa.png" width="500"/>
 
 
 

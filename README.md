@@ -54,6 +54,9 @@ Urgencias:
 
 La lista de consejos en el menú principal de nuestra aplicación sirve  para proporcionar información adicional, que sea util.  Para eso creamos una lista de consejos, con los bloques pudimos seleccionar aleatoreamente los conejos de la lista ya preparada, mostrando los consejos en forma de etiqueta, luego utilizando el temporizador podemos ir cambiendo el consejo.
 
+## Captura de pantalla Centros de salud
+
+<img src="captura_hospitales.png" width="500"/
 
 
 

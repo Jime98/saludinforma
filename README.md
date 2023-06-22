@@ -39,7 +39,7 @@ Urgencias:
 
 ## Captura de pantalla principal
 
-<img src="pantalla_principal.jpeg" width="200"/> 
+<img src="pantalla_principal.jpeg" width="800"/> 
 
 ## Codigo de pantalla principal
 
@@ -73,10 +73,10 @@ Urgencias:
 <img src="especialidadesconsejos_bloques.png" width="800"/> 
 
 ## Captura boton de busqueda
-<img src=".png" width="800"/> 
+<img src="botonbusqueda_captura.png" width="800"/> 
 
-## Blouques boton de busqueda
-<img src=".png" width="800"/> 
+## Bloques boton de busqueda
+<img src="bloques_busqueda.png" width="800"/> 
 
 `Tambien implementamos un botón de búsqueda en nuestra aplicación que permite a los usuarios buscar una especialidad médica específica dentro de la sección de "Especialidades".`
  

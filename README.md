@@ -36,12 +36,16 @@ Hospitales: Al seleccionar esta opción, los usuarios podrán acceder a una list
 Urgencias: 
 
 ## Pantallas movil📲 y sus codigos 👩🏻‍💻🧑🏻‍💻
+
 ## Captura de pantalla principal
+
 <img src="pantalla_principal.jpeg" width="200"/>  
 ## Codigo de pantalla principal
+
 <img src="codigo_pantallaprincipal.png" width="600"/> 
 ## Captura de pantalla menu principal
-## Lista de consejos en el menu principal, bloques app invento.
+
+## Lista de consejos en el menu principal, bloques app invento
 <img src="listadeconsejos.png" width="800"/>
 
 

@@ -49,7 +49,7 @@ Urgencias:
 
 <img src="menu_principal.png" width="500"/> 
 
-## Lista de consejos en el menu principal, bloques app invento
+## Lista de consejos en el menu principal, parte inferior de la pantalla bloques app invento
 <img src="listadeconsejos.png" width="800"/>
 
 La lista de consejos en el menú principal de nuestra aplicación sirve  para proporcionar información adicional, que sea util.  Para eso creamos una lista de consejos, con los bloques pudimos seleccionar aleatoreamente los conejos de la lista ya preparada, mostrando los consejos en forma de etiqueta, luego utilizando el temporizador podemos ir cambiendo el consejo.

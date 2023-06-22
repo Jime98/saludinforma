@@ -9,7 +9,7 @@
 
 
 ## Importante 
-Aunque hemos realizado avances significativos en el desarrollo de la aplicación, es importante destacar que aún no hemos completado todas las funcionalidades y características que tenemos en mente. Nos falta definir y mejorar.
+**Aunque hemos realizado avances significativos en el desarrollo de la aplicación, es importante destacar que aún no hemos completado todas las funcionalidades y características que tenemos en mente. Nos falta definir y mejorar.**
 ## Ahora si!
 ## ¡Hola a todos! 
 Nos complace darles la bienvenida a nuestro repositorio de SaludInfo. Somos un grupo de estudiantes de la carrera de Informática Aplicada a la Salud, de la Universidad Nacional de José C. Paz (UNPAZ). Nuestro equipo está conformado por Daniela Maidana, Daniela Rojas, Juan Pablo Asis y Jimena Mollo.
@@ -52,7 +52,7 @@ Urgencias:
 ## Lista de consejos en el menu principal, parte inferior de la pantalla bloques app invento
 <img src="listadeconsejos.png" width="800"/>
 
-*La lista de consejos en el menú principal de nuestra aplicación sirve  para proporcionar información adicional, que sea util.  Para eso creamos una lista de consejos, con los bloques pudimos seleccionar aleatoreamente los conejos de la lista ya preparada, mostrando los consejos en forma de etiqueta, luego utilizando el temporizador podemos ir cambiendo el consejo.*
+*`La lista de consejos en el menú principal de nuestra aplicación sirve  para proporcionar información adicional, que sea util.  Para eso creamos una lista de consejos, con los bloques pudimos seleccionar aleatoreamente los conejos de la lista ya preparada, mostrando los consejos en forma de etiqueta, luego utilizando el temporizador podemos ir cambiendo el consejo.`*
 
 
 
@@ -68,7 +68,7 @@ Urgencias:
 
 <img src="bloques_mapa.png" width="800"/>
 
-*Esta función muestra informacion sobre 8 hospitales, incluyendo sus nombres, mapas y números de telefono, los bloques nos permitieron  facilitar interaccienes, como mostrar la ubicación en el mapa y marcar los números de teléfono. Tmbien pusimos la direccion de horarios para brindar informacion mas rapida e importante sobre los hospitales.*
+*`Esta función muestra informacion sobre 8 hospitales, incluyendo sus nombres, mapas y números de telefono, los bloques nos permitieron  facilitar interaccienes, como mostrar la ubicación en el mapa y marcar los números de teléfono. Tmbien pusimos la direccion de horarios para brindar informacion mas rapida e importante sobre los hospitales.`*
 
 ## Captura de pantalla Urgencias 
 CUENTA CON DOS BOTINES PRINCIPALES "CONSEJOS DE EMEGERNCIA" Y "NUMEROS DE EMERGENCIA"
@@ -81,7 +81,7 @@ CUENTA CON DOS BOTINES PRINCIPALES "CONSEJOS DE EMEGERNCIA" Y "NUMEROS DE EMERGE
 
 <img src="consejos_emergencia.png" width="500"/>
 
-*La aplicación también cuenta con una sección de consejos de emergencia que están relacionados con cada especialidad médica. Al proporcionar consejos basados en la especialidad médica seleccionada, nuestra aplicación ayuda a los usuarios a tomar decisiones más informadas y adecuadas ante una emergencia de salud.*
+*`La aplicación también cuenta con una sección de consejos de emergencia que están relacionados con cada especialidad médica. Al proporcionar consejos basados en la especialidad médica seleccionada, nuestra aplicación ayuda a los usuarios a tomar decisiones más informadas y adecuadas ante una emergencia de salud.`*
 
 ## Bloques para numeros de amergencia
 

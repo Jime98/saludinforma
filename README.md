@@ -54,7 +54,32 @@ Urgencias:
 
 `La lista de consejos en el menú principal de nuestra aplicación sirve  para proporcionar información adicional, que sea util.  Para eso creamos una lista de consejos, con los bloques pudimos seleccionar aleatoreamente los conejos de la lista ya preparada, mostrando los consejos en forma de etiqueta, luego utilizando el temporizador podemos ir cambiendo el consejo.`
 
+## Captura de pantalla Epecialidades
+<img src="especialidades_captura.png" width="500"/> 
 
+`La función de "Especialidades" en nuestra aplicación ofrece preguntas útiles relacionadas con cada especialidad médica.`
+
+## Especialidad segun cual seleccionamos
+<img src="especialidad_seleccionada_captura.png" width="500"/> 
+
+## Bloques de especialidades
+
+<img src="especialidades_bloques.png" width="800"/> 
+
+`Decidimos utilizar una base de datos local. Esta base de datos nos permite almacenar toda la información relacionada con las preguntas de acuerdo a su especialidad.`
+
+## Bloques especialidades consejos
+
+<img src="especialidadesconsejos_bloques.png" width="800"/> 
+
+## Captura boton de busqueda
+<img src=".png" width="800"/> 
+
+## Blouques boton de busqueda
+<img src=".png" width="800"/> 
+
+`Tambien implementamos un botón de búsqueda en nuestra aplicación que permite a los usuarios buscar una especialidad médica específica dentro de la sección de "Especialidades".`
+ 
 
 ## Captura de pantalla Centros de salud
 

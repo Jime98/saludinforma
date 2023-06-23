@@ -4,7 +4,7 @@
 
 
 
-## Proyecto SaludInfo:  Información Precisa y Confiable al alcance de todos
+## Proyecto SaludInfo:  Información Precisa y Confiable al alcance de todos Link de Miro: https://miro.com/app/board/uXjVMFMmh6Q=/?share_link_id=624583111147                                                                                                   Link de Trello: https://trello.com/invite/b/SQcXhl8e/ATTI7355d5c1a6a9cbee730a4dc9221267800C814890/desarrollo-de-la-app
 
 
 

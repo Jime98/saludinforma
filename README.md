@@ -54,7 +54,7 @@ Urgencias:
 
 `La lista de consejos en el menú principal de nuestra aplicación sirve  para proporcionar información adicional, que sea util.  Para eso creamos una lista de consejos, con los bloques pudimos seleccionar aleatoreamente los conejos de la lista ya preparada, mostrando los consejos en forma de etiqueta, luego utilizando el temporizador podemos ir cambiendo el consejo.`
 
-## Captura de pantalla Epecialidades
+## Captura de pantalla Epecialidades 🚨
 <img src="especialidades_captura.png" width="500"/> 
 
 `La función de "Especialidades" en nuestra aplicación ofrece preguntas útiles relacionadas con cada especialidad médica.`
@@ -81,34 +81,34 @@ Urgencias:
 `Tambien implementamos un botón de búsqueda en nuestra aplicación que permite a los usuarios buscar una especialidad médica específica dentro de la sección de "Especialidades".`
  
 
-## Captura de pantalla Centros de salud
+## 🏥🏥Captura de pantalla Centros de salud🏥🏥
 
 <img src="captura_hospitales.png" width="500"/>
 
-## Bloques para el boton Llamada
+## ☎️📞Bloques para el boton Llamada 📞☎️
 
 <img src="bloques_llamada.png" width="800"/>
 
-## Bloques para el boton Mapa
+##  🗺️📍 Bloques para el boton Mapa 📍🗺️
 
 <img src="bloques_mapa.png" width="800"/>
 
 `Esta función muestra informacion sobre 8 hospitales, incluyendo sus nombres, mapas y números de telefono, los bloques nos permitieron  facilitar interaccienes, como mostrar la ubicación en el mapa y marcar los números de teléfono. Tmbien pusimos la direccion de horarios para brindar informacion mas rapida e importante sobre los hospitales.`
 
-## Captura de pantalla Urgencias 
+## Captura de pantalla Urgencias 🚨
 CUENTA CON DOS BOTINES PRINCIPALES "CONSEJOS DE EMEGERNCIA" Y "NUMEROS DE EMERGENCIA"
 
 <img src="captura_emergencias.png" width="500"/>
 
 <img src="captura_consejosemergencia.png" width="500"/>
 
-## Bloques para para consejos de emergencias
+## Bloques para para consejos de emergencias 🚨
 
 <img src="consejos_emergencia.png" width="500"/>
 
 `La aplicación también cuenta con una sección de consejos de emergencia que están relacionados con cada especialidad médica. Al proporcionar consejos basados en la especialidad médica seleccionada, nuestra aplicación ayuda a los usuarios a tomar decisiones más informadas y adecuadas ante una emergencia de salud.`
 
-## Bloques para numeros de amergencia
+## Bloques para numeros de amergencia  📞
 
 <img src="numeros_emergencia.png" width="500"/>
 
